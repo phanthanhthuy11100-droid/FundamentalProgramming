@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\thuy\Downloads\btap3.cs" Link="btap3.cs" />
+  </ItemGroup>
+
 </Project>

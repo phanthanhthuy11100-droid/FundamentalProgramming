@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FundamentalProgramming.Session_02
 {
-    internal class Ex
+    internal class Ex2
     {
         /* 
          1.	Divide Two Numbers
